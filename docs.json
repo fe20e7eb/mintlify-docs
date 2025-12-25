@@ -9,20 +9,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "anchors": [
+    "global": {
+      "anchors": [
+        {
+          "anchor": "BLOXPRODUCTS",
+          "href": "https://discord.gg/bloxproducts"
+        }
+      ]
+    },
+    "groups": [
       {
-        "anchor": "BLOXPRODUCTS",
-        "href": "https://bloxproducts.com"
-      },
-      {
-        "anchor": "BASICS",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "basics/getting-started/introduction"
-            ]
-          }
+        "group": "Getting Started",
+        "pages": [
+          "getting-started/introduction",
+          "p-ayment-m"
         ]
       }
     ]
