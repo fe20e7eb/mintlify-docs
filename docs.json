@@ -13,6 +13,17 @@
       {
         "anchor": "BLOXPRODUCTS",
         "href": "https://bloxproducts.com"
+      },
+      {
+        "anchor": "BASICS",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "basics/getting-started/introduction"
+            ]
+          }
+        ]
       }
     ]
   },
