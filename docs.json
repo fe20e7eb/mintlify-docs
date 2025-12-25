@@ -26,8 +26,11 @@
         ]
       },
       {
-        "group": "Untitled Group",
-        "pages": []
+        "group": "Tickets",
+        "pages": [
+          "tickets/untitled-page",
+          "tickets/guidelines"
+        ]
       }
     ]
   },
